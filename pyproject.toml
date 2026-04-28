@@ -63,7 +63,7 @@ tomli-w = "~1.2.0"
 s3fs = "2025.7.0"
 
 [tool.poetry.group.devops.dependencies]
-invoke = "~2.2.1"
+invoke = "~3.0.3"
 mypy = "~1.18.2"
 ruff = "~0.14.2"
 
